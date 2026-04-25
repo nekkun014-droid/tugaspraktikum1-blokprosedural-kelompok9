@@ -24,7 +24,7 @@ BEGIN
     UNION ALL
 
     SELECT CONCAT(
-        'Mahasiswa Andi Dewa Firdaus (IK2411027) dari Program Studi ',
+        'Mahasiswa Andi Dewa Firdaus (IK2411037) dari Program Studi ',
         v_prodi, ' terdaftar di ', v_kampus, ' pada semester 5.'
     );
 END $$
@@ -89,7 +89,7 @@ BEGIN
     DECLARE ukt2 VARCHAR(10) DEFAULT 'LUNAS';
 
     DECLARE nama3 VARCHAR(50) DEFAULT 'Andi';
-    DECLARE nim3 VARCHAR(20) DEFAULT 'IK2411027';
+    DECLARE nim3 VARCHAR(20) DEFAULT 'IK2411037';
     DECLARE smt3 INT DEFAULT 4;
     DECLARE prodi3 VARCHAR(50) DEFAULT 'Informatika';
     DECLARE sks3 INT DEFAULT 10;
@@ -152,7 +152,7 @@ BEGIN
         'Thizya' AS Nama, 'IK2411057' AS NIM, 3.80 AS IPK
     UNION ALL
     SELECT 
-        'Andi', 'IK2411027', 3.40
+        'Andi', 'IK2411037', 3.40
     UNION ALL
     SELECT 
         'Farida Nur Intan', 'IK2411013', 3.90;

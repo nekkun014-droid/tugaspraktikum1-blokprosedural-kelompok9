@@ -79,9 +79,9 @@ Prosedur tambahan dengan data berbeda:
 
 | Nama | NIM | Semester | SKS | IPK | UKT |
 |------|-----|----------|-----|-----|-----|
-| Andi Dewa | 2310112345 | 3 | 22 | 3.45 | Lunas |
-| Thizya Tri | 2310112346 | 2 | 18 | 2.40 | Belum Lunas |
-| Farida | 2310112347 | 4 | 24 | 3.80 | Lunas |
+| Andi Dewa | IK2411037 | 3 | 22 | 3.45 | Lunas |
+| Thizya Tri | IK2411057 | 2 | 18 | 2.40 | Belum Lunas |
+| Farida | IK2411013 | 4 | 24 | 3.80 | Lunas |
 
 ## 🚀 Cara Menjalankan
 
